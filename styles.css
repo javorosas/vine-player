@@ -1,5 +1,5 @@
 html {
-  background-color: #f33;
+  background-color: #bada55;
   text-align: center;
 }
 
@@ -9,6 +9,7 @@ html {
   border-radius: 5px;
   overflow: hidden;
   display: inline-block;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
 video {
