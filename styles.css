@@ -1,0 +1,17 @@
+html {
+  background-color: #f33;
+  text-align: center;
+}
+
+.video-container {
+  padding: 6px;
+  background-color: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+video {
+  height: 300px;
+  border-radius: 5px;
+}
